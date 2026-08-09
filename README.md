@@ -4,9 +4,10 @@
 - C++
 
 ## Progress
-- Total Problems Solved: 38
+- Total Problems Solved: 40
 - Easy: 22
-- Medium: 16
+- Medium: 17
+- Hard: 1
 
 ## Topics Covered
 - Arrays
