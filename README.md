@@ -4,9 +4,9 @@
 - C++
 
 ## Progress
-- Total Problems Solved: 40
-- Easy: 22
-- Medium: 17
+- Total Problems Solved: 44
+- Easy: 24
+- Medium: 19
 - Hard: 1
 
 ## Topics Covered
